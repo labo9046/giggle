@@ -1,0 +1,278 @@
+name: hunt
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+    difficult_shady_than:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: difficult_shady_than
+          run: |
+            npm install
+            timeout 326m node hunt.js
+  
+    aw:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: aw
+          run: |
+            npm install
+            timeout 313m node hunt.js
+  
+    ick:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: ick
+          run: |
+            npm install
+            timeout 309m node hunt.js
+  
+    incidentally_hunger_fundraising:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: incidentally_hunger_fundraising
+          run: |
+            npm install
+            timeout 314m node hunt.js
+  
+    forswear_including_till:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: forswear_including_till
+          run: |
+            npm install
+            timeout 314m node hunt.js
+  
+    trim_partially_term:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: trim_partially_term
+          run: |
+            npm install
+            timeout 339m node hunt.js
+  
+    even_appertain:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: even_appertain
+          run: |
+            npm install
+            timeout 324m node hunt.js
+  
+    whereas_meanwhile:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: whereas_meanwhile
+          run: |
+            npm install
+            timeout 313m node hunt.js
+  
+    amidst_qua:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: amidst_qua
+          run: |
+            npm install
+            timeout 325m node hunt.js
+  
+    banish:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: banish
+          run: |
+            npm install
+            timeout 308m node hunt.js
+  
+    straight_gnaw_upon:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: straight_gnaw_upon
+          run: |
+            npm install
+            timeout 348m node hunt.js
+  
+    moral_jell:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: moral_jell
+          run: |
+            npm install
+            timeout 346m node hunt.js
+  
+    restfully_after_furthermore:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: restfully_after_furthermore
+          run: |
+            npm install
+            timeout 322m node hunt.js
+  
+    where_including_who:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: where_including_who
+          run: |
+            npm install
+            timeout 337m node hunt.js
+  
+    pessimistic_fishery_out:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: pessimistic_fishery_out
+          run: |
+            npm install
+            timeout 344m node hunt.js
+  
+    oof:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: oof
+          run: |
+            npm install
+            timeout 317m node hunt.js
+  
+    railway:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: railway
+          run: |
+            npm install
+            timeout 304m node hunt.js
+  
